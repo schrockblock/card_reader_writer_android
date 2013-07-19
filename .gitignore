@@ -1,0 +1,14 @@
+*.idea/*
+*.eml*
+*.iml*
+*DS_S*
+*~
+out/*
+
+/local.properties
+
+/AndroidManifest.xml.bak
+
+/local.properties
+
+/AndroidManifest.xml.bak
